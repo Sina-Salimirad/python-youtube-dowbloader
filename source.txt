@@ -1,1 +1,0 @@
-[{'url': 'https://youtube.com/playlist?list=PLMbK063QE0JalwKRl63sbGUDLS2HmOQGw&si=lDbOvdDd1TKn6A23', 'quality': '720', 'directory': 'Wordpress(woocammerce-shop)'}, {'url': 'https://youtube.com/playlist?list=PLMbK063QE0Jb_OQvhwrn2zKcdilvs_vQ2&si=zkAtM0Dn_R_4JuMK', 'quality': '720', 'directory': 'Wordpress-tutorial'}]
